@@ -1,12 +1,9 @@
 body {
-  font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.4;
-  color: var(--color-white);
   box-sizing: border-box;
   display: block;
-  background-image: url(./iStock-1081869336-1013x675.jpg);
   background-size: 100%;
   background-attachment: fixed;
 }
@@ -28,13 +25,11 @@ form {
 h1 {
   display: grid;
   justify-content: center;
-  background-color: rgb(5, 5, 61);
 }
 
 #description {
   display: grid;
   justify-content: center;
-  background-color: rgb(5, 5, 61);
 }
 
 .boxes input {
